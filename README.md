@@ -1,0 +1,2 @@
+# AVIF_generator
+基于ffmpeg的一个Windows下的AVIF生成器web服务
